@@ -1,6 +1,6 @@
 {
-    "appSecret": "02cd1bbda941eecd7a13c0c615b2be4d",
-    "pageAccessToken": "EAAFOT2hgUOUBADfo6r5MNDtMTZCueF7CZCXfugqASmQvePUkQ2UNiMv9inGJUmT5YxjmHe9NC4eTfBKhTzAxFsZAQYGehBYRyvWECa3KP17l0MyId9vUL5BlUq9Q9LEJl74qrMFgWph4F3mYWOZAQjybVpSV57NtX4lh3a1OLAZDZD",
-    "validationToken": "test",
-    "serverURL": "https://test-fb-chatbot-webhook.herokuapp.com/"
+    "appSecret": "",
+    "pageAccessToken": "",
+    "validationToken": "",
+    "serverURL": ""
 }
